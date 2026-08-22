@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cgewq3.episouth.com/sitemap.xml
